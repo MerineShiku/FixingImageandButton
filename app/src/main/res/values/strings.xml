@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Covid app</string>
+    <string name="wingman">WingMan</string>
+    <string name="enter_message">Enter message</string>
+</resources>
